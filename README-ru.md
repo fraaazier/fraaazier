@@ -1,6 +1,6 @@
 # fraaazier
 
-### [Русский]() [English](https://github.com/fraaazier/fraaazier/blob/main/README-eu.md)
+### [Русский](https://github.com/fraaazier/fraaazier/edit/main/README-ru.md) [English](https://github.com/fraaazier/fraaazier/blob/main/README-eu.md)
 
 ## Факты обо мне
 + ## Я знаю языки программирования
