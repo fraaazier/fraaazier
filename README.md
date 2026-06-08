@@ -1,4 +1,4 @@
-# Fraaazier_
+# fraaazier
 
 [Русский](#) [English](#)
 
