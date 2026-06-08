@@ -1,11 +1,23 @@
 # fraaazier
 
-[Русский](#) [English](#)
+[Русский](#русский) | [English](#english)
 
-## Факты обо мне
+<a name="русский"></a>
+## Факты обо мне (RU)
 
 * **Какие языки программирования знаю:**
   * `Python`
   * `C++`
 
 * **Я говорю на русском**
+
+---
+
+<a name="english"></a>
+## About Me (EN)
+
+* **Programming languages I know:**
+  * `Python`
+  * `C++`
+
+* **I speak Russian**
